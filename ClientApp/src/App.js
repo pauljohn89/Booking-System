@@ -8,6 +8,7 @@ import ApiAuthorizationRoutes from './components/api-authorization/ApiAuthorizat
 import { ApplicationPaths } from './components/api-authorization/ApiAuthorizationConstants';
 
 import './bootstrap.css';
+import './custom.css';
 import './Login.css';
 export default class App extends Component {
   static displayName = App.name;
